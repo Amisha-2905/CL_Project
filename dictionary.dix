@@ -1,0 +1,13 @@
+<dictionary>
+  <alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+  <sdefs>
+    <sdef n="verb"/>
+    <sdef n="plural"/>
+    <sdef n="singular"/>
+    <sdef n="masculine"/>
+    <sedf n="feminine"/>
+    <sdef n="1st person"/>
+    <sdef n="2nd person"/>
+    <sedf n="3rd person"/>
+    <sedf 
+  </sdefs>
