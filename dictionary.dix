@@ -9,5 +9,9 @@
     <sdef n="1st person"/>
     <sdef n="2nd person"/>
     <sedf n="3rd person"/>
-    <sedf 
+    <sedf n="1st causative"/>
+    <sedf n="2nd causative"/>
+    <sedf n="Transitive"/>
+    <sdef n="Intransitive"/>
   </sdefs>
+</dictionary>
