@@ -151,11 +151,6 @@ def get_inflections(wx_string):
     """
     Uses LT Toolbox to get inflections of a given word in WX notation.
     """
-    # Assuming lt-comp is the LT Toolbox command-line tool for compiling dictionaries
-    lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
-
-    # Run lt-comp to compile the dictionary
-    subprocess.run(lt_comp_command)
 
     # Assuming lt-proc is the LT Toolbox command-line tool for processing compiled dictionaries
     lt_proc_command = ["lt-proc", "-c", "out.bin"]
@@ -165,6 +160,13 @@ def get_inflections(wx_string):
 
     # Decode the output and return it
     return lt_proc_output.stdout
+
+
+# Assuming lt-comp is the LT Toolbox command-line tool for compiling dictionaries
+lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
+
+# Run lt-comp to compile the dictionary
+subprocess.run(lt_comp_command)
 
 # Get input in Hindi Unicode
 hindi_unicode_input = input()
