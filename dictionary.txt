@@ -44,3 +44,4 @@ karavAwI first causative habitual feminine singular
 karavAwe first causative habitual masculine plural
 karavAwIM first causative habitual feminine plural
 kI past perfect feminine
+karavAo first causative imperative semi-honorable 2nd person
