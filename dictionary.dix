@@ -2,16 +2,165 @@
   <alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
   <sdefs>
     <sdef n="verb"/>
-    <sdef n="plural"/>
     <sdef n="singular"/>
+    <sdef n="plural"/>
+    <sdef n="feminine"/>
     <sdef n="masculine"/>
-    <sedf n="feminine"/>
-    <sdef n="1st person"/>
-    <sdef n="2nd person"/>
-    <sedf n="3rd person"/>
-    <sedf n="1st causative"/>
-    <sedf n="2nd causative"/>
-    <sedf n="Transitive"/>
-    <sdef n="Intransitive"/>
+    <sdef n="vocative"/>
   </sdefs>
+  <pardefs>
+  <pardef n="k/ara__n">
+			<e><p>
+		<l>ara</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+			<e><p>
+		<l>iyA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arawA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arawI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aranA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arawe</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aranI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aregA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aregI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aroge</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arogI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>areMge</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aro</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arie</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>karavAo</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>iyA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>ie</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arane</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>ariegA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAnA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAIegA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arUz</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arUzgA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arUzgI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>areMge</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAyA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAwI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAegA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAegI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAUzgA</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAUzgI</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAUzge</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAne</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>aravAwa</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>arawAwe</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>I</l>
+			<r>ara<s n="verb"/></r>
+		</p></e>
+  </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+	<e lm="kara"><i>k</i><par n="k/ara__n"/></e>
+  </section>
 </dictionary>
