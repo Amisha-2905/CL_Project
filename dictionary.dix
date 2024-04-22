@@ -6,141 +6,184 @@
     <sdef n="plural"/>
     <sdef n="feminine"/>
     <sdef n="masculine"/>
-    <sdef n="vocative"/>
+    <sdef n="present"/>
+	<sdef n="past"/>
+	<sdef n="future"/>
+	<sdef n="perfect"/>
+	<sdef n="1st person"/>
+	<sdef n="2nd person"/>
+	<sdef n="3rd person"/>
+	<sdef n="imperative"/>
+	<sdef n="habitual"/>
+	<sdef n="intimate"/>
+	<sdef n="semi-honorable"/>
+	<sdef n="honorable"/>
+	<sdef n="infinitive"/>
+	<sdef n="subjunctive"/>
+	<sdef n="first causative"/>
+	<sdef n="second causative"/>
   </sdefs>
   <pardefs>
   <pardef n="k/ara__n">
 			<e><p>
 		<l>ara</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="present"/><s n="perfect"/></r>
+		</p></e>
+			<e><p>
+		<l>ara</l>
+			<r>ara<s n="verb"/><s n="present"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/><s n="singular"/></r>
 		</p></e>
 			<e><p>
 		<l>iyA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="past"/><s n="perfect"/><s n="masculine"/></r>
 		</p></e>
         	<e><p>
 		<l>arawA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="habitual"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>arawI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aranA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="infinitive"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>aranA</l>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/></r>
 		</p></e>
         	<e><p>
 		<l>arawe</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="habitual"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>arawIm</l>
+			<r>ara<s n="verb"/><s n="habitual"/><s n="feminine"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>aranI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="infinitive"/><s n="feminine"/></r>
 		</p></e>
         	<e><p>
 		<l>aregA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>aregA</l>
+			<r>ara<s n="verb"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aregI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>areMgI</l>
+			<r>ara<s n="verb"/><s n="future"/><s n="feminine"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>aroge</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="semi-honorable"/><s n="feminine"/><s n="2nd person"/></r>
 		</p></e>
         	<e><p>
 		<l>arogI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="semi-honorable"/><s n="feminine"/><s n="2nd person"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>areMge</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="masculine"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>aro</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="imperative"/><s n="semi-honorable"/><s n="2nd person"/></r>
 		</p></e>
-        	<e><p>
+			<e><p>
 		<l>arie</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="imperative"/><s n="present"/><s n="2nd person"/><s n="honorable"/></r>
 		</p></e>
         	<e><p>
 		<l>aravA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="imperative"/><s n="2nd person"/><s n="intimate"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>aravA</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="present"/><s n="perfect"/></r>
 		</p></e>
         	<e><p>
 		<l>karavAo</l>
-			<r>ara<s n="verb"/></r>
-		</p></e>
-        	<e><p>
-		<l>iyA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="imperative"/><s n="first causative"/><s n="2nd person"/><s n="honorable"/></r>
 		</p></e>
         	<e><p>
 		<l>ie</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="subjunctive"/></r>
 		</p></e>
         	<e><p>
 		<l>arane</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="infinitive"/></r>
 		</p></e>
         	<e><p>
 		<l>ariegA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="2nd person"/><s n="honorable"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAnA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="first causative"/><s n="semi-honorable"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAIegA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="imperative"/><s n="first causative"/><s n="honorable"/></r>
 		</p></e>
         	<e><p>
 		<l>arUz</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="1st person"/><s n="present"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>areM</l>
+			<r>ara<s n="verb"/><s n="1st person"/><s n="present"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>arUzgA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="1st person"/><s n="present"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>arUzgI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="1st person"/><s n="present"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>areMge</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="future"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAyA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="past"/><s n="perfect"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAwI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAegA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAegI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAUzgA</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAUzgI</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
-		<l>aravAUzge</l>
-			<r>ara<s n="verb"/></r>
+		<l>aravAezge</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>aravAezgI</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="feminine"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>aravAne</l>
@@ -148,15 +191,23 @@
 		</p></e>
         	<e><p>
 		<l>aravAwa</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>aravAwI</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
         	<e><p>
-		<l>arawAwe</l>
-			<r>ara<s n="verb"/></r>
+		<l>aravAwe</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>aravAwIM</l>
+			<r>ara<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="plural"/></r>
 		</p></e>
         	<e><p>
 		<l>I</l>
-			<r>ara<s n="verb"/></r>
+			<r>ara<s n="verb"/><s n="past"/><s n="perfect"/><s n="feminine"/></r>
 		</p></e>
   </pardef>
   </pardefs>
