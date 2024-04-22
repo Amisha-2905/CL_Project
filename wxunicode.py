@@ -152,7 +152,7 @@ def get_inflections(wx_string):
     Uses LT Toolbox to get inflections of a given word in WX notation.
     """
     # Assuming lt-comp is the LT Toolbox command-line tool for compiling dictionaries
-    lt_comp_command = ["lt-comp", "lr", "para.dix", "out.bin"]
+    lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
 
     # Run lt-comp to compile the dictionary
     subprocess.run(lt_comp_command)
