@@ -6,7 +6,7 @@ def extract_words_tags_from_sentence(sentence):
     words_tags = [(match[0], match[1]) for match in matches]
     return words_tags
 
-with open('output.txt', 'w') as output_file:
+with open('train.txt', 'w') as output_file:
     for i in range(1,3001, 50):
         start_range = i
         end_range = i + 49
@@ -21,7 +21,7 @@ with open('output.txt', 'w') as output_file:
                 if sentence != sentences[-1]:
                     output_file.write('\n')
 
-with open('output.txt', 'r+') as file:
+with open('train.txt', 'r+') as file:
     content = file.read()
     content = content.replace('\n\n\n','\n\n')
     file.seek(0)
