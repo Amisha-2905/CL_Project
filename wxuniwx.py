@@ -242,30 +242,28 @@ def get_inflections(wx_string):
 
     return lt_proc_output.stdout
 
-def convert_inflections_to_hindi(inflections):
-    segments = inflections.split('^')
-    output = segments[0]  # The first segment before the first '^' remains unchanged
+def func(string):
+    str = string.split('/')
+    inflections = str[0].split('^')
+    inflection = wxtohin(inflections[1])
+    out=[]
+    out.append('^')
+    out.append(inflection)
+    for i in range(1,len(str)):
+        out.append('/')
+        inflections=str[i].split('<')
+        out.append(wxtohin(inflections[0]))
+        for j in range(1,len(inflections)):
+            out.append('<'+inflections[j])
+    return "".join(out)
 
-    for segment in segments[1:]:
-        wx_segment, rest = segment.split('/', 1)  # Split each segment at the first '/'
-        hindi_segment = wxtohin(wx_segment)  # Convert the WX segment to Hindi
-        output += '^' + hindi_segment + '/' + rest  # Combine the Hindi segment with the rest of the string
+lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
+subprocess.run(lt_comp_command)
 
-    return output
-
-# def abc(inflections):
-#     a=inflections.split('/')
-#     b=a[0].split('^')
-#     c=a[1].split('<')
-#     print(b)
-#     print(c)
-#     return a
-
-word='करवा'
-print(get_inflections(hintowx(word)))
-print(convert_inflections_to_hindi(get_inflections(hintowx(word))))
-# print(abc(get_inflections(hintowx(word))))
-print(hintowx(word))
-print(wxtohin(hintowx(word)))
+word=input()
+# print(get_inflections(hintowx(word)))
+print(func(get_inflections(hintowx(word))))
+# print(hintowx(word))
+# print(wxtohin(hintowx(word)))
 # with open('abc.txt', 'w') as file:
 #     file.write(get_inflections(hintowx(word)))
