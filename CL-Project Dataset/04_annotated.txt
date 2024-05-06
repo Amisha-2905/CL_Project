@@ -47,8 +47,8 @@
 छोटे	JJ
 द्वीप	N_NN
 शामिल	JJ
-हैं+V_VAUX
-।+RD_PUNC
+हैं	V_VAUX
+।	RD_PUNC
 
 उत्तरी	N_NNP
 आयरलैंड	N_NNP
@@ -133,7 +133,7 @@ UK	N_NNP
 चार	QT_QTC
 देश	N_NN
 शामिल	JJ
-हैं+V_VAUX
+हैं	V_VAUX
 :	RD_PUNC
 इंग्लैंड	N_NNP
 ,	RD_PUNC
@@ -182,8 +182,8 @@ UK	N_NNP
 और	CC_CCD
 स्कॉटलैंड	N_NNP
 की	PSP
-राजधानी+N_NN
-।+RD_PUNC
+राजधानी	N_NN
+।	RD_PUNC
 
 जर्सी	N_NNP
 और	CC_CCD
@@ -1099,8 +1099,8 @@ UK	RD_RDF
 विकास	N_NN
 का	PSP
 आगमन	N_NN
-देखा+V_VM
-।+RD_PUNC
+देखा	V_VM
+।	RD_PUNC
 मार्गरेट	N_NNP
 थैचर	N_NNP
 के	PSP
@@ -1494,8 +1494,8 @@ UK	RD_RDF
 साम्राज्य	N_NN
 की	PSP
 एक	QT_QTC
-विरासत+N_NN
-।+RD_PUNC
+विरासत	N_NN
+।	RD_PUNC
 
 वेस्टमिंस्टर	N_NNP
 के	PSP
