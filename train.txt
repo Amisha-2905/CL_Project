@@ -6187,15 +6187,15 @@ NULL	N_NN
 अलावा	PSP
 मेवाड़	N_NNP
 में	PSP
-शैव	N__NNP
+शैव	N_NNP
 ,	RD_PUNC
-शाक्त	N__NNP
+शाक्त	N_NNP
 ,	RD_PUNC
-सौर	N__NNP
+सौर	N_NNP
 ,	RD_PUNC
-बौद्ध	N__NNP
+बौद्ध	N_NNP
 व	CC_CCD
-जैन	N__NNP
+जैन	N_NNP
 धर्मों	N_NN
 से	PSP
 संबद्ध	JJ
@@ -6424,7 +6424,7 @@ NULL	CC_CCD
 दो	N_NN
 में	PSP
 रथारुढ़	JJ
-सूर्यदेव	N__NNP
+सूर्यदेव	N_NNP
 की	PSP
 प्रतिमाएँ	N_NN
 प्रतिष्ठित	JJ
@@ -15695,7 +15695,7 @@ ISMA	RD_RDF
 से	PSP
 पैदल	JJ
 चलकर	V_VM
-उत्तरकयम	N__NNP
+उत्तरकयम	N_NNP
 पहुँचा	V_VM
 जा	V_VAUX
 सकता	V_VAUX
@@ -27083,7 +27083,7 @@ NULL	V_VM
 हुई	V_VM
 थी	V_VAUX
 और	CC_CCD
-1800	QT_QT_QTC
+1800	QT_QTC
 में	PSP
 बनकर	V_VM
 तैयार	JJ
@@ -39570,12 +39570,12 @@ NULL	CC_CCD
 छठवें	QT_QTO
 वर्ष	N_NN
 अर्ध	QT_QTF
-कुंभ	N__NNP
+कुंभ	N_NNP
 NULL	V_VM
 और	CC_CCD
 बारहवें	QT_QTO
 वर्ष	N_NN
-कुंभ	N__NNP
+कुंभ	N_NNP
 लगता	V_VM
 है	V_VAUX
 ।	RD_PUNC
@@ -39598,7 +39598,7 @@ NULL	V_VM
 और	CC_CCD
 नासिक	N_NNP
 के	PSP
-कुंभ	N__NNP
+कुंभ	N_NNP
 मेले	N_NN
 में	PSP
 तीन	QT_QTC
@@ -39612,7 +39612,7 @@ NULL	V_VM
 एवं	CC_CCD
 उज्जैन	N_NNP
 का	PSP
-कुंभ	N__NNP
+कुंभ	N_NNP
 एक	QT_QTC
 ही	RP_RPD
 वर्ष	N_NN
@@ -39684,7 +39684,7 @@ NULL	V_VM
 बारहवें	QT_QTO
 वर्ष	N_NN
 ही	RP_RPD
-कुंभ	N__NNP
+कुंभ	N_NNP
 पर्व	N_NN
 का	PSP
 होना	V_VM
@@ -42344,8 +42344,8 @@ NULL	CC_CCD
 हैं	V_VAUX
 ।	RD_PUNC
 
-तपोवन	N__NNP
-देवघर	N__NNP
+तपोवन	N_NNP
+देवघर	N_NNP
 से	PSP
 10	QT_QTC
 कि.मी.	N_NN
@@ -42364,7 +42364,7 @@ NULL	CC_CCD
 है	V_VM
 ।	RD_PUNC
 
-तपोवन	N__NNP
+तपोवन	N_NNP
 में	PSP
 कई	QT_QTF
 गुफाएँ	N_NN
@@ -44181,7 +44181,7 @@ NULL	CC_CCD
 है	V_VAUX
 ।	RD_PUNC
 
-झारखण्डी	N__NNP
+झारखण्डी	N_NNP
 धाम	N_NN
 तीर्थयात्रियों	N_NN
 के	PSP
@@ -46422,7 +46422,7 @@ NULL	CC_CCD
 शहर	N_NN
 जांगीपुर	N_NNP
 तथा	CC_CCD
-राजमहल	N__NNP
+राजमहल	N_NNP
 की	PSP
 पहाड़ियों	N_NN
 का	PSP
@@ -47919,7 +47919,7 @@ NULL	CC_CCD
 है	V_VM
 ।	RD_PUNC
 
-कांति	N__NNP
+कांति	N_NNP
 जलप्रपात	N_NN
 एक	QT_QTC
 प्रसिद्ध	JJ
@@ -47928,7 +47928,7 @@ NULL	CC_CCD
 है	V_VM
 ।	RD_PUNC
 
-कांति	N__NNP
+कांति	N_NNP
 जलप्रपात	N_NN
 साल	N_NN
 भर	RP_RPD
@@ -48593,7 +48593,7 @@ NULL	CC_CCD
 है	V_VAUX
 ।	RD_PUNC
 
-बाहू	N__NNP
+बाहू	N_NNP
 किले	N_NN
 के	PSP
 अन्दर	N_NST
@@ -48632,7 +48632,7 @@ NULL	CC_CCD
 आगे	N_NST
 जाने	V_VM
 पर	PSP
-बाहू	N__NNP
+बाहू	N_NNP
 किले	N_NN
 के	PSP
 सामने	N_NST
@@ -51602,8 +51602,8 @@ NULL	RB
 NULL	V_VM
 ।	RD_PUNC
 
-तारा	N__NNP
-मीन	N__NNP
+तारा	N_NNP
+मीन	N_NNP
 शिकारी	N_NN
 के	PSP
 कब्जे	N_NN
@@ -51621,7 +51621,7 @@ NULL	V_VM
 है	V_VAUX
 ।	RD_PUNC
 
-पप्फर	N__NNP
+पप्फर	N_NNP
 नामक	JJ
 मछली	N_NN
 तो	RP_RPD
@@ -51722,7 +51722,7 @@ NULL	CC_CCD
 स्टार	N_NN
 फिश	N_NN
 और	CC_CCD
-पप्फर	N__NNP
+पप्फर	N_NNP
 फिश	N_NN
 से	PSP
 भी	RP_RPD
@@ -51734,7 +51734,7 @@ NULL	CC_CCD
 ही	RP_RPD
 शीलू	N_NNP
 ने	PSP
-पप्फर	N__NNP
+पप्फर	N_NNP
 को	PSP
 अपने	PR_PRF
 हाथों	N_NN
@@ -51772,7 +51772,7 @@ NULL	RB
 यह	PR_PRP
 है	V_VM
 कि	CC_CCS
-पफ्फर	N__NNP
+पफ्फर	N_NNP
 उन	DM_DMD
 मछलियों	N_NN
 में	PSP
@@ -52115,9 +52115,9 @@ NULL	CC_CCD
 क्रम	N_NN
 में	PSP
 हमने	PR_PRP
-मैनग्रोव	N__NNP
+मैनग्रोव	N_NNP
 पर	PSP
-किंगफिशर	N__NNP
+किंगफिशर	N_NNP
 को	PSP
 देखा	V_VM
 ।	RD_PUNC
