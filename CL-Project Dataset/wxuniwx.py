@@ -98,6 +98,7 @@ wxtohin_vowels_half = {
     "i": "ि",
     "I": "ी",
     "o": "ो",
+    "O": "ौ",
     "U": "ू",
     "u": "ु",
     "z": "ँ",
@@ -262,13 +263,18 @@ def func(string):
             out.append('<'+inflections[j])
     return "".join(out)
 
-if __name__ == "__main__":
+def final_main(string):
     lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
     subprocess.run(lt_comp_command)
+    return func(get_inflections(hintowx(string)))
 
-    word=input()
+if __name__ == "__main__":
+    # lt_comp_command = ["lt-comp", "lr", "dictionary.dix", "out.bin"]
+    # subprocess.run(lt_comp_command)
+    final_main()
+    # word=input()
     # print(get_inflections(hintowx(word)))
-    print(func(get_inflections(hintowx(word))))
+    # print(func(get_inflections(hintowx(word))))
     # print(hintowx(word))
     # print(wxtohin(hintowx(word)))
     # with open('abc.txt', 'w') as file:

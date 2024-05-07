@@ -2,11 +2,14 @@ import subprocess
 from hindi import hindimain
 from wx import wxmain
 from verbscrape import verbmain
+from wxuniwx import final_main
 
 def hindi():
     # print('ok')
     hindimain()
-    crf_code = ["crf_test", "-m", "model", "hindi_tokens.txt", ">", "hindi_output.txt"]
+    command = "crf_test -m model tokens.txt > output.txt"
+    crf_code = ["crf_test", "-m", "model", "tokens.txt"]
+    subprocess.run(command, shell=True)
     subprocess.run(crf_code)
     return
 
@@ -14,9 +17,25 @@ def hindi():
 def wx():
     # print('notok')
     wxmain()
-    crf_code = ["crf_test", "-m", "model", "wx_tokens.txt", ">", "wx_output.txt"]
+    command = "crf_test -m model tokens.txt > output.txt"
+    crf_code = ["crf_test", "-m", "model", "tokens.txt"]
+    subprocess.run(command, shell=True)
     subprocess.run(crf_code)
     return
+
+def morph():
+    verbmain()
+    output_data = []
+    lines = []
+    with open("verbs_output.txt", "r") as file:
+        for line in file:
+            output_data.append(line.strip())
+    for words in output_data:
+        line=final_main(words)
+        lines.append(line)
+    print(lines)
+    with open ('output.txt','a') as output:
+        output.write('\n'.join(lines)) 
 
 print('Choose your sentence type:')
 print('1. Hindi Unicode')
@@ -26,3 +45,6 @@ if number==1:
     hindi()
 elif number==2:
     wx()
+morph()
+output = final_main('कर')
+print(output)

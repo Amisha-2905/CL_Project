@@ -34,7 +34,7 @@ def wxmain():
 
     # Separate tokens
     tokens = separate_tokens(wx_sentence)
-
+    
     # Write tokens to file
     output_file = "tokens.txt"
     write_tokens_to_file(tokens, output_file)
