@@ -1,0 +1,458 @@
+File 1:
+
+Tag: PR_PRP
+Precision: 0.76
+Recall: 0.90
+F1: 0.83
+
+Tag: N_NN
+Precision: 0.66
+Recall: 0.89
+F1: 0.76
+
+Tag: PSP
+Precision: 0.95
+Recall: 0.95
+F1: 0.95
+
+Tag: V_VM
+Precision: 0.82
+Recall: 0.80
+F1: 0.81
+
+Tag: RP_NEG
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: RP_INTF
+Precision: 1.00
+Recall: 0.78
+F1: 0.88
+
+Tag: PR_PRF
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: QT_QTC
+Precision: 0.89
+Recall: 0.51
+F1: 0.65
+
+Tag: N_NNP
+Precision: 0.47
+Recall: 0.32
+F1: 0.38
+
+Tag: RD_PUNC
+Precision: 0.99
+Recall: 0.97
+F1: 0.98
+
+Tag: V_VAUX
+Precision: 0.84
+Recall: 0.84
+F1: 0.84
+
+Tag: JJ
+Precision: 0.73
+Recall: 0.61
+F1: 0.67
+
+Tag: DM_DMD
+Precision: 0.73
+Recall: 0.62
+F1: 0.67
+
+Tag: RB
+Precision: 0.80
+Recall: 0.31
+F1: 0.44
+
+Tag: RD_SYM
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: N_NST
+Precision: 0.71
+Recall: 0.63
+F1: 0.67
+
+Tag: CC_CCS
+Precision: 0.71
+Recall: 0.71
+F1: 0.71
+
+Tag: CC_CCD
+Precision: 0.96
+Recall: 0.96
+F1: 0.96
+
+Tag: QT_QTO
+Precision: 0.83
+Recall: 0.38
+F1: 0.53
+
+Tag: RP_RPD
+Precision: 0.86
+Recall: 0.66
+F1: 0.75
+
+Tag: PR_PRL
+Precision: 0.80
+Recall: 0.55
+F1: 0.65
+
+Tag: QT_QTF
+Precision: 0.83
+Recall: 0.76
+F1: 0.79
+
+File 2:
+
+Tag: RP_RPD
+Precision: 1.00
+Recall: 0.93
+F1: 0.96
+
+Tag: N_NST
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: QT_QTF
+Precision: 0.70
+Recall: 0.88
+F1: 0.78
+
+Tag: PR_PRL
+Precision: 0.94
+Recall: 0.94
+F1: 0.94
+
+Tag: CC_CCS
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: PSP
+Precision: 0.99
+Recall: 1.00
+F1: 1.00
+
+Tag: RB
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: V_VAUX
+Precision: 0.99
+Recall: 0.95
+F1: 0.97
+
+Tag: CC_CCD
+Precision: 1.00
+Recall: 0.99
+F1: 0.99
+
+Tag: N_NN
+Precision: 0.83
+Recall: 0.92
+F1: 0.87
+
+Tag: V_VM
+Precision: 0.94
+Recall: 0.97
+F1: 0.95
+
+Tag: N_NNP
+Precision: 0.74
+Recall: 0.45
+F1: 0.56
+
+Tag: RD_PUNC
+Precision: 0.97
+Recall: 1.00
+F1: 0.98
+
+Tag: DM_DMD
+Precision: 0.86
+Recall: 1.00
+F1: 0.92
+
+Tag: PR_PRP
+Precision: 0.91
+Recall: 0.99
+F1: 0.95
+
+Tag: RD_SYM
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: QT_QTC
+Precision: 0.98
+Recall: 0.96
+F1: 0.97
+
+Tag: RP_NEG
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: JJ
+Precision: 0.76
+Recall: 0.76
+F1: 0.76
+
+Tag: PR_PRF
+Precision: 0.92
+Recall: 1.00
+F1: 0.96
+
+Tag: QT_QTO
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: DM_DMI
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+File 3:
+
+Tag: RD_PUNC
+Precision: 0.99
+Recall: 0.99
+F1: 0.99
+
+Tag: QT_QTC
+Precision: 0.90
+Recall: 0.78
+F1: 0.83
+
+Tag: QT_QTF
+Precision: 0.94
+Recall: 0.79
+F1: 0.86
+
+Tag: N_NN
+Precision: 0.70
+Recall: 0.93
+F1: 0.79
+
+Tag: JJ
+Precision: 0.86
+Recall: 0.75
+F1: 0.80
+
+Tag: N_NST
+Precision: 0.91
+Recall: 0.91
+F1: 0.91
+
+Tag: RP_INTF
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: PSP
+Precision: 0.98
+Recall: 0.99
+F1: 0.99
+
+Tag: DM_DMI
+Precision: 1.00
+Recall: 0.33
+F1: 0.50
+
+Tag: CC_CCD
+Precision: 0.64
+Recall: 1.00
+F1: 0.78
+
+Tag: DM_DMD
+Precision: 0.83
+Recall: 1.00
+F1: 0.91
+
+Tag: RD_SYM
+Precision: 0.80
+Recall: 1.00
+F1: 0.89
+
+Tag: V_VAUX
+Precision: 0.91
+Recall: 0.95
+F1: 0.93
+
+Tag: PR_PRF
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: RP_RPD
+Precision: 0.92
+Recall: 1.00
+F1: 0.96
+
+Tag: RP_NEG
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: V_VM
+Precision: 0.82
+Recall: 0.81
+F1: 0.81
+
+Tag: QT_QTO
+Precision: 1.00
+Recall: 0.29
+F1: 0.44
+
+Tag: RB
+Precision: 1.00
+Recall: 0.60
+F1: 0.75
+
+Tag: RD_UNK
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: PR_PRL
+Precision: 1.00
+Recall: 0.88
+F1: 0.94
+
+Tag: N_NNP
+Precision: 0.82
+Recall: 0.42
+F1: 0.56
+
+Tag: PR_PRP
+Precision: 0.97
+Recall: 0.89
+F1: 0.93
+
+File 4:
+
+Tag: N_NNP
+Precision: 0.62
+Recall: 0.38
+F1: 0.47
+
+Tag: QT_QTC
+Precision: 0.95
+Recall: 0.90
+F1: 0.92
+
+Tag: RP_INTF
+Precision: 1.00
+Recall: 0.75
+F1: 0.86
+
+Tag: CC_CCD
+Precision: 0.98
+Recall: 1.00
+F1: 0.99
+
+Tag: CC_CCS
+Precision: 1.00
+Recall: 0.36
+F1: 0.53
+
+Tag: PR_PRL
+Precision: 0.95
+Recall: 1.00
+F1: 0.98
+
+Tag: RP_RPD
+Precision: 1.00
+Recall: 0.89
+F1: 0.94
+
+Tag: V_VAUX
+Precision: 0.95
+Recall: 0.84
+F1: 0.89
+
+Tag: RD_PUNC
+Precision: 1.00
+Recall: 0.99
+F1: 1.00
+
+Tag: N_NST
+Precision: 0.97
+Recall: 0.97
+F1: 0.97
+
+Tag: RB
+Precision: 1.00
+Recall: 0.33
+F1: 0.50
+
+Tag: PSP
+Precision: 0.98
+Recall: 1.00
+F1: 0.99
+
+Tag: JJ
+Precision: 0.78
+Recall: 0.63
+F1: 0.70
+
+Tag: RD_SYM
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: RP_NEG
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: DM_DMI
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: V_VM
+Precision: 0.85
+Recall: 0.91
+F1: 0.88
+
+Tag: DM_DMD
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: QT_QTO
+Precision: 1.00
+Recall: 0.53
+F1: 0.70
+
+Tag: PR_PRF
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+Tag: N_NN
+Precision: 0.67
+Recall: 0.91
+F1: 0.77
+
+Tag: PR_PRP
+Precision: 0.97
+Recall: 0.97
+F1: 0.97
+
+Tag: QT_QTF
+Precision: 0.80
+Recall: 1.00
+F1: 0.89
+

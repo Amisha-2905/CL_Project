@@ -357,7 +357,7 @@ UK	N_NNP
 कम	JJ
 कर	V_VM
 दिया	V_VAUX
-फिर	CC_CCS
+फिर	RB
 भी	RP_RPD
 यूके	N_NN
 अपने	PR_PRF
@@ -425,7 +425,7 @@ UK	N_NNP
 ,	RD_PUNC
 जी8	N_NNP
 ,	RD_PUNC
-OECD	RD_RDF
+OECD	N_NNP
 ,	RD_PUNC
 नाटो	N_NNP
 और	CC_CCD
@@ -659,7 +659,7 @@ UK	N_NNP
 की	PSP
 तरह	N_NN
 ,	RD_PUNC
-UK	RD_RDF
+UK	N_NNP
 औपनिवेशिक	JJ
 शोषण	N_NN
 में	PSP
@@ -686,7 +686,7 @@ UK	RD_RDF
 के	PSP
 साथ	N_NST
 ,	RD_PUNC
-UK	RD_RDF
+UK	N_NNP
 ने	PSP
 गुलामों	N_NN
 के	PSP
@@ -710,7 +710,7 @@ UK	RD_RDF
 के	PSP
 बाद	N_NST
 ,	RD_PUNC
-UK	RD_RDF
+UK	N_NNP
 19वीं	QT_QTO
 सदी	N_NN
 में	PSP
@@ -778,7 +778,7 @@ UK	RD_RDF
 प्रसारण	N_NN
 नेटवर्क	N_NN
 ,	RD_PUNC
-BBC	RD_RDF
+BBC	N_NNP
 ,	RD_PUNC
 बनाया	V_VM
 गया	V_VAUX
@@ -827,7 +827,7 @@ BBC	RD_RDF
 उत्तरी	N_NNP
 आयरलैंड	N_NNP
 ने	PSP
-UK	RD_RDF
+UK	N_NNP
 का	PSP
 हिस्सा	N_NN
 बनने	V_VM
@@ -842,7 +842,7 @@ UK	RD_RDF
 1927	N_NNP
 में	PSP
 ,	RD_PUNC
-UK	RD_RDF
+UK	N_NNP
 का	PSP
 औपचारिक	JJ
 नाम	N_NN
@@ -931,7 +931,7 @@ UK	RD_RDF
 में	PSP
 से	PSP
 एक	QT_QTC
-UK	RD_RDF
+UK	N_NNP
 था	V_VM
 ।	RD_PUNC
 
@@ -1253,7 +1253,7 @@ UK	RD_RDF
 स्थापना	N_NN
 के	PSP
 साथ	N_NST
-UK	RD_RDF
+UK	N_NNP
 के	PSP
 शासन	N_NN
 में	PSP
@@ -1327,7 +1327,7 @@ II	N_NNP
 नहीं	RP_NEG
 हैं	V_VM
 लेकिन	CC_CCD
-UK	RD_RDF
+UK	N_NNP
 सरकार	N_NN
 इनके	PR_PRP
 विदेशी	JJ
@@ -1338,7 +1338,7 @@ UK	RD_RDF
 करती	V_VM
 है	V_VAUX
 और	CC_CCD
-UK	RD_RDF
+UK	N_NNP
 संसद	N_NN
 को	PSP
 उनकी	PR_PRP
@@ -1412,7 +1412,7 @@ UK	RD_RDF
 नहीं	RP_NEG
 है	V_VM
 ,	RD_PUNC
-UK	RD_RDF
+UK	N_NNP
 संसद	N_NN
 केवल	RP_RPD
 संसद	N_NN
@@ -1472,7 +1472,7 @@ UK	RD_RDF
 है	V_VAUX
 ।	RD_PUNC
 
-UK	RD_RDF
+UK	N_NNP
 का	PSP
 एक	QT_QTC
 संसदीय	JJ
@@ -1576,7 +1576,7 @@ UK	RD_RDF
 स्वीकृति	N_NN
 के	PSP
 बाद	N_NST
-UK	RD_RDF
+UK	N_NNP
 की	PSP
 संसद	N_NN
 द्वारा	PSP

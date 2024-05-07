@@ -622,7 +622,7 @@
 लोगों	N_NN
 द्वारा	PSP
 "	RD_PUNC
-फायरस्टिक	RD_RDF
+फायरस्टिक	N_NNP
 कृषि	N_NN
 "	RD_PUNC
 का	PSP
@@ -719,12 +719,12 @@
 -	RD_SYM
 भूमि	N_NN
 से	PSP
-थाइलेसाइन	RD_RDF
+थाइलेसाइन	N_NNP
 ,	RD_PUNC
-तस्मानियाई	RD_RDF
-डेविल	RD_RDF
+तस्मानियाई	N_NNP
+डेविल	N_NNP
 और	CC_CCD
-तस्मानियाई	RD_RDF
+तस्मानियाई	N_NNP
 मूल	JJ
 -	RD_SYM
 मुर्गी	N_NN
@@ -845,7 +845,7 @@
 ढांचे	N_NN
 के	PSP
 अनुसार	PSP
-ड्रीमिंग	RD_RDF
+ड्रीमिंग	N_NNP
 एक	QT_QTC
 भयानक	JJ
 युग	N_NST
@@ -853,7 +853,7 @@
 ,	RD_PUNC
 जिसमें	PR_PRP
 पूर्वज	N_NN
-टोटेमिक	RD_RDF
+टोटेमिक	N_NNP
 आत्माओं	N_NN
 ने	PSP
 सृष्टि	N_NN
@@ -1093,7 +1093,7 @@
 ,	RD_PUNC
 ऑस्ट्रेलियाई	JJ
 आदिवासी	N_NN
-अपनी	DM_DMD
+अपनी	PR_PRF
 जनसंख्या	N_NN
 -	RD_SYM
 वृद्धि	N_NN
@@ -1252,7 +1252,7 @@
 प्रत्येक	JJ
 राष्ट्र	N_NN
 की	PSP
-अपनी	DM_DMD
+अपनी	PR_PRF
 स्वयं	PR_PRL
 की	PSP
 भाषा	N_NN
@@ -1400,7 +1400,7 @@
 कैप्टन	N_NNP
 कुक	N_NNP
 ने	PSP
-अपनी	DM_DMD
+अपनी	PR_PRF
 जर्नल	N_NN
 में	PSP
 लिखा	V_VM
@@ -1473,7 +1473,7 @@
 किया	V_VM
 है	V_VAUX
 और	CC_CCD
-अपने	DM_DMD
+अपने	PR_PRF
 मित्र	N_NN
 बैनेलॉन्ग	N_NNP
 व	CC_CCD

@@ -933,7 +933,7 @@ KBE	RD_RDF
 तकनीक	N_NN
 5	QT_QTC
 रचनात्मक	N_NN
-नियंत्रण5।1	CC_CCS
+नियंत्रण	N_NN
 द	N_NNP
 ग्रेट	N_NNP
 डिक्टेटर	N_NNP

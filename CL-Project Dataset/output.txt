@@ -1,2 +1,26 @@
-करता	RD_PUNC
+उन्होंने	PR_PRP
+पृथ्वी	N_NN
+पर	PSP
+सबसे	RP_INTF
+लंबे	JJ
+समय	N_NN
+तक	PSP
+बची	V_VM
+रहने	V_VM
+वाली	PSP
+कलात्मक	N_NN
+,	RD_PUNC
+संगीतमय	N_NN
+और	CC_CCD
+आध्यात्मिक	JJ
+परंपराओं	N_NN
+में	PSP
+कुछ	QT_QTF
+की	PSP
+स्थापना	N_NN
+की	V_VM
+।	RD_PUNC
 
+^बची
+^रहने
+^की/कर<verb><past><perfect><feminine>$

@@ -256,11 +256,14 @@ def func(string):
     out.append('^')
     out.append(inflection)
     for i in range(1,len(str)):
-        out.append('/')
-        inflections=str[i].split('<')
-        out.append(wxtohin(inflections[0]))
-        for j in range(1,len(inflections)):
-            out.append('<'+inflections[j])
+        if str[1][0] == '*':
+            continue
+        else:
+            out.append('/')
+            inflections=str[i].split('<')
+            out.append(wxtohin(inflections[0]))
+            for j in range(1,len(inflections)):
+                out.append('<'+inflections[j])
     return "".join(out)
 
 def final_main(string):

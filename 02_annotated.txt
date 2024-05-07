@@ -402,7 +402,7 @@
 ,	RD_PUNC
 कैलिफ़ोर्निया	N_NNP
 में	PSP
-क्लिंटन	V_NNP
+क्लिंटन	N_NNP
 ईस्टवुड	N_NNP
 सीनियर	N_NNP
 ,	RD_PUNC

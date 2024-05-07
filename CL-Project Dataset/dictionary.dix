@@ -214,8 +214,55 @@
 			<r>ara<s n="verb"/><s n="imperative"/><s n="first causative"/><s n="semi-honorable"/><s n="2nd person"/></r>
 		</p></e>
   </pardef>
+  <pardef n="/hE__n">
+  <e><p>
+		<l>hE</l>
+			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="singular"/></r>
+		</p></e>
+  <e><p>
+		<l>hEM</l>
+			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="plural"/></r>
+		</p></e>
+  <e><p>
+		<l>WA</l>
+			<r>hE<s n="verb"/><s n="past"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+  <e><p>
+		<l>We</l>
+			<r>hE<s n="verb"/><s n="past"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+  <e><p>
+		<l>WI</l>
+			<r>hE<s n="verb"/><s n="past"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+  <e><p>
+		<l>WIM</l>
+			<r>hE<s n="verb"/><s n="past"/><s n="feminine"/><s n="plural"/></r>
+		</p></e>
+  <e><p>
+		<l>hUz</l>
+			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="singular"/><s n="1st person"/></r>
+		</p></e>
+  <e><p>
+		<l>ho</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="singular"/></r>
+		</p></e>
+  <e><p>
+		<l>hoM</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="plural"/></r>
+		</p></e>
+  <e><p>
+		<l>huA</l>
+			<r>hE<s n="verb"/><s n="perfect"/><s n="singular"/><s n="masculine"/></r>
+		</p></e>
+  <e><p>
+		<l>hue</l>
+			<r>hE<s n="verb"/><s n="perfect"/><s n="plural"/><s n="masculine"/></r>
+		</p></e>
+  </pardef>
   </pardefs>
   <section id="main" type="standard">
 	<e lm="kara"><i>k</i><par n="k/ara__n"/></e>
+	<e lm="hE"><i></i><par n="/hE__n"/></e>
   </section>
 </dictionary>

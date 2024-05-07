@@ -32,6 +32,7 @@ def morph():
             output_data.append(line.strip())
     for words in output_data:
         line=final_main(words)
+        
         lines.append(line)
     print(lines)
     with open ('output.txt','a') as output:
@@ -46,5 +47,5 @@ if number==1:
 elif number==2:
     wx()
 morph()
-output = final_main('कर')
-print(output)
+# output = final_main('कर')
+# print(output)
