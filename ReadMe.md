@@ -1,8 +1,9 @@
+
 ## CL Project
 
 ### Training Data
 -It has 60 files of 50 sentences each which are annotated.The data from the files was scraped by scrape.py and the output for the same was staored in train.txt.
--It also has a dataset of nearly 500 sentences that is manually annotated for model training.This data is from the same domain as train.txt.
+-It also has a dataset of nearly 500 sentences that is manually annotated for model training. This data is from the same domain as train.txt.
 
 Finally, the whole training data is in final_train.txt which has all the training data from tourism domain with around 60,000 tokens.
 
@@ -31,3 +32,15 @@ The final_main function takes hindi word as input which is a verb, converts it i
 The morph-analysis is also written in the output.txt.
 
 The further analysis of the crf model is written in analysis.txt .
+
+## List of tasks and respective contributions:
+-> Data scraping of train data (Amisha)
+-> Tokenization of manually annotated data and test data (Aaryan)
+-> Annotation of 500 sentences training data (Amisha)
+-> Annotation of 4 * 50 sentences test data (Both)
+-> Training and running the CRF model on test data (Amisha)
+-> POS tagger and analysis (Amisha)
+-> WX to hindi unicode and hindi unicode to WX converter (Aaryan)
+-> Dictionary of morph analyser (Both)
+-> Pipelining of the whole model (Aaryan)
+

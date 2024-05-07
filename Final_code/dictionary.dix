@@ -20,6 +20,7 @@
 	<sdef n="honorable"/>
 	<sdef n="infinitive"/>
 	<sdef n="subjunctive"/>
+	<sdef n="conjunctive"/>
 	<sdef n="first causative"/>
 	<sdef n="second causative"/>
   </sdefs>
@@ -214,55 +215,302 @@
 			<r>ara<s n="verb"/><s n="imperative"/><s n="first causative"/><s n="semi-honorable"/><s n="2nd person"/></r>
 		</p></e>
   </pardef>
+  <pardef n="m/Ana__n">
+			<e><p>
+		<l>Ana</l>
+			<r>Ana<s n="verb"/><s n="present"/><s n="perfect"/></r>
+		</p></e>
+			<e><p>
+		<l>Ana</l>
+			<r>Ana<s n="verb"/><s n="present"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>AnA</l>
+			<r>Ana<s n="verb"/><s n="past"/><s n="perfect"/><s n="masculine"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnawA</l>
+			<r>Ana<s n="verb"/><s n="habitual"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnawI</l>
+			<r>Ana<s n="verb"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnanA</l>
+			<r>Ana<s n="verb"/><s n="infinitive"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>AnanA</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/></r>
+		</p></e>
+        	<e><p>
+		<l>Anawe</l>
+			<r>Ana<s n="verb"/><s n="habitual"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>AnawIm</l>
+			<r>Ana<s n="verb"/><s n="habitual"/><s n="feminine"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnanI</l>
+			<r>Ana<s n="verb"/><s n="infinitive"/><s n="feminine"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnegA</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnegI</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>AneMgI</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="feminine"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>aroge</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="semi-honorable"/><s n="feminine"/><s n="2nd person"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnogI</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="semi-honorable"/><s n="feminine"/><s n="2nd person"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AneMge</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>Ano</l>
+			<r>Ana<s n="verb"/><s n="imperative"/><s n="semi-honorable"/><s n="2nd person"/></r>
+		</p></e>
+			<e><p>
+		<l>Anie</l>
+			<r>Ana<s n="verb"/><s n="imperative"/><s n="present"/><s n="2nd person"/><s n="honorable"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavA</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="imperative"/><s n="2nd person"/><s n="intimate"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>anavA</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="present"/><s n="perfect"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAo</l>
+			<r>Ana<s n="verb"/><s n="imperative"/><s n="first causative"/><s n="2nd person"/><s n="honorable"/></r>
+		</p></e>
+        	<e><p>
+		<l>Ane</l>
+			<r>Ana<s n="verb"/><s n="subjunctive"/></r>
+		</p></e>
+        	<e><p>
+		<l>Anane</l>
+			<r>Ana<s n="verb"/><s n="infinitive"/></r>
+		</p></e>
+        	<e><p>
+		<l>AniegA</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="2nd person"/><s n="honorable"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAnA</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="first causative"/><s n="semi-honorable"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAIegA</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="imperative"/><s n="first causative"/><s n="honorable"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnUz</l>
+			<r>Ana<s n="verb"/><s n="1st person"/><s n="present"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>AneM</l>
+			<r>Ana<s n="verb"/><s n="1st person"/><s n="present"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnUzgA</l>
+			<r>Ana<s n="verb"/><s n="1st person"/><s n="present"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnUzgI</l>
+			<r>Ana<s n="verb"/><s n="1st person"/><s n="present"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>AneMge</l>
+			<r>Ana<s n="verb"/><s n="future"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAyA</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="past"/><s n="perfect"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAwI</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAegA</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAegI</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAUzgA</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAUzgI</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAezge</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>anavAezgI</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="1st person"/><s n="future"/><s n="feminine"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAne</l>
+			<r>Ana<s n="verb"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnavAwa</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>anavAwI</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+        	<e><p>
+		<l>anavAwe</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="masculine"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>anavAwIM</l>
+			<r>Ana<s n="verb"/><s n="first causative"/><s n="habitual"/><s n="feminine"/><s n="plural"/></r>
+		</p></e>
+        	<e><p>
+		<l>AnI</l>
+			<r>Ana<s n="verb"/><s n="past"/><s n="perfect"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>anavAo</l>
+			<r>Ana<s n="verb"/><s n="imperative"/><s n="first causative"/><s n="semi-honorable"/><s n="2nd person"/></r>
+		</p></e>
+  </pardef>
   <pardef n="/hE__n">
-  <e><p>
+  			<e><p>
 		<l>hE</l>
 			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="singular"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>hEM</l>
 			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="plural"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>WA</l>
 			<r>hE<s n="verb"/><s n="past"/><s n="masculine"/><s n="singular"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>We</l>
 			<r>hE<s n="verb"/><s n="past"/><s n="masculine"/><s n="plural"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>WI</l>
 			<r>hE<s n="verb"/><s n="past"/><s n="feminine"/><s n="singular"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>WIM</l>
 			<r>hE<s n="verb"/><s n="past"/><s n="feminine"/><s n="plural"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>hUz</l>
-			<r>hE<s n="verb"/><s n="present"/><s n="habitual"/><s n="singular"/><s n="1st person"/></r>
+			<r>hE<s n="verb"/><s n="present"/><s n="singular"/><s n="1st person"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>ho</l>
 			<r>hE<s n="verb"/><s n="future"/><s n="singular"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>hoM</l>
 			<r>hE<s n="verb"/><s n="future"/><s n="plural"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>huA</l>
 			<r>hE<s n="verb"/><s n="perfect"/><s n="singular"/><s n="masculine"/></r>
 		</p></e>
-  <e><p>
+  			<e><p>
 		<l>hue</l>
 			<r>hE<s n="verb"/><s n="perfect"/><s n="plural"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>huI</l>
+			<r>hE<s n="verb"/><s n="perfect"/><s n="singular"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>huIM</l>
+			<r>hE<s n="verb"/><s n="perfect"/><s n="plural"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>howA</l>
+			<r>hE<s n="verb"/><s n="habitual"/><s n="singular"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>howe</l>
+			<r>hE<s n="verb"/><s n="habitual"/><s n="plural"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>howI</l>
+			<r>hE<s n="verb"/><s n="habitual"/><s n="singular"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>howIM</l>
+			<r>hE<s n="verb"/><s n="habitual"/><s n="plural"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>honA</l>
+			<r>hE<s n="verb"/><s n="infintive"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>hone</l>
+			<r>hE<s n="verb"/><s n="infintive"/></r>
+		</p></e>
+			<e><p>
+		<l>honI</l>
+			<r>hE<s n="verb"/><s n="infintive"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>hogA</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="singular"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>hoMge</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="plural"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>hogI</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="singular"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>hoUzgA</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="singular"/><s n="masculine"/><s n="1st person"/></r>
+		</p></e>
+			<e><p>
+		<l>hoUzgI</l>
+			<r>hE<s n="verb"/><s n="future"/><s n="singular"/><s n="feminine"/><s n="1st person"/></r>
+		</p></e>
+			<e><p>
+		<l>hokara</l>
+			<r>hE<s n="verb"/><s n="conjunctive"/></r>
 		</p></e>
   </pardef>
   </pardefs>
   <section id="main" type="standard">
 	<e lm="kara"><i>k</i><par n="k/ara__n"/></e>
 	<e lm="hE"><i></i><par n="/hE__n"/></e>
+	<e lm="mAna"><i></i><par n="m/Ana__n"></e>
   </section>
 </dictionary>

@@ -1,0 +1,97 @@
+CRF model:-
+
+CRF model was trained on data from tourism domain which had around 3500+ sentences (60,000+ tokens).
+It was then tested on four different domains and the following results were obtained from the same.
+
+CRF model succesfully gives quite great accuracy:-
+Accuracy of dataset 1 - 76.70%
+Accuracy of dataset 2 - 87.03%
+Accuracy of dataset 3 - 80.82%
+Accuracy of dataset 4 - 80.30%
+
+CRF model considers the following factors to give such a good accuracy:-
+- Length of word.
+- Suffix of the word.
+- Prefix of the word.
+- Two tags preceeding the word.
+- Two tags suceeding the word.
+
+Mostly, the POS tagger is quite accurate by=ut on closely observing the Precision, Recall and F1 score of each tag, it is observed that Named-Entities or N_NNP tag is the least accurate one.
+The very first dataset has more number of proper Nouns or Named-entities which makes the accuracy lower as comapred to other datasets.
+
+file 01:
+Tag: N_NNP
+Precision: 0.47
+Recall: 0.32
+F1: 0.38
+
+file 02:
+Tag: N_NNP
+Precision: 0.74
+Recall: 0.45
+F1: 0.56
+
+file 03:
+Tag: N_NNP
+Precision: 0.82
+Recall: 0.42
+F1: 0.56
+
+file 04:
+Tag: N_NNP
+Precision: 0.62
+Recall: 0.38
+F1: 0.47
+
+Also, it is observed that the JJ tag or the Adjective tag is also not that accurate as other tags. The reason behind the same is that in Hindi, usually some words which are verbs in other languages are considered as JJ in Hindi.
+So, the score for the same is as follows:
+
+file 01:
+Tag: JJ
+Precision: 0.73
+Recall: 0.61
+F1: 0.67
+
+file 02:
+Tag: JJ
+Precision: 0.76
+Recall: 0.76
+F1: 0.76
+
+file 03:
+Tag: JJ
+Precision: 0.86
+Recall: 0.75
+F1: 0.80
+
+file 04:
+Tag: JJ
+Precision: 0.78
+Recall: 0.63
+F1: 0.70
+
+The accuracy for RB tag or the Adverb tag is also quite low because a word might behave as adject in a particular context but might behave as RB in some other making the accuracy for the same as low.The scores of the same are:
+
+file 01:
+Tag: RB
+Precision: 0.80
+Recall: 0.31
+F1: 0.44
+
+file 02:
+Tag: RB
+Precision: 1.00
+Recall: 1.00
+F1: 1.00
+
+file 03:
+Tag: RB
+Precision: 1.00
+Recall: 0.60
+F1: 0.75
+
+file 04:
+Tag: RB
+Precision: 1.00
+Recall: 0.33
+F1: 0.50
