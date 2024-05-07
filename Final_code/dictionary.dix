@@ -472,15 +472,15 @@
 		</p></e>
 			<e><p>
 		<l>honA</l>
-			<r>hE<s n="verb"/><s n="infintive"/><s n="masculine"/></r>
+			<r>hE<s n="verb"/><s n="infinitive"/><s n="masculine"/></r>
 		</p></e>
 			<e><p>
 		<l>hone</l>
-			<r>hE<s n="verb"/><s n="infintive"/></r>
+			<r>hE<s n="verb"/><s n="infinitive"/></r>
 		</p></e>
 			<e><p>
 		<l>honI</l>
-			<r>hE<s n="verb"/><s n="infintive"/><s n="feminine"/></r>
+			<r>hE<s n="verb"/><s n="infinitive"/><s n="feminine"/></r>
 		</p></e>
 			<e><p>
 		<l>hogA</l>
@@ -507,10 +507,67 @@
 			<r>hE<s n="verb"/><s n="conjunctive"/></r>
 		</p></e>
   </pardef>
+  <pardef n="/jA__n">
+			<e><p>
+		<l>jA</l>
+			<r>jA<s n="verb"/><s n="present"/><s n="perfect"/></r>
+		</p></e>
+			<e><p>
+		<l>jA</l>
+			<r>jA<s n="verb"/><s n="present"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>jAwA</l>
+			<r>jA<s n="verb"/><s n="habitual"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>jAwA</l>
+			<r>jA<s n="verb"/><s n="habitual"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>gayA</l>
+			<r>jA<s n="verb"/><s n="past"/><s n="perfect"/><s n="masculine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>gaI</l>
+			<r>jA<s n="verb"/><s n="past"/><s n="perfect"/><s n="feminine"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>gae</l>
+			<r>jA<s n="verb"/><s n="past"/><s n="perfect"/><s n="plural"/></r>
+		</p></e>
+			<e><p>
+		<l>jAne</l>
+			<r>jA<s n="verb"/><s n="infinitive"/></r>
+		</p></e>
+  </pardef>
+  <pardef n="rah/a__n">
+			<e><p>
+		<l>a</l>
+			<r>raha<s n="verb"/><s n="present"/><s n="perfect"/></r>
+		</p></e>
+			<e><p>
+		<l>a</l>
+			<r>raha<s n="verb"/><s n="present"/><s n="imperative"/><s n="intimate"/><s n="2nd person"/><s n="singular"/></r>
+		</p></e>
+			<e><p>
+		<l>A</l>
+			<r>raha<s n="verb"/><s n="past"/><s n="perfect"/><s n="masculine"/></r>
+		</p></e>
+			<e><p>
+		<l>I</l>
+			<r>raha<s n="verb"/><s n="past"/><s n="perfect"/><s n="feminine"/></r>
+		</p></e>
+			<e><p>
+		<l>e</l>
+			<r>raha<s n="verb"/><s n="past"/><s n="perfect"/></r>
+		</p></e>
+  </pardef>
   </pardefs>
   <section id="main" type="standard">
 	<e lm="kara"><i>k</i><par n="k/ara__n"/></e>
 	<e lm="hE"><i></i><par n="/hE__n"/></e>
-	<e lm="mAna"><i></i><par n="m/Ana__n"></e>
+	<e lm="mAna"><i></i><par n="m/Ana__n"/></e>
+	<e lm="jA"><i></i><par n="/jA__n"/></e>
   </section>
 </dictionary>
