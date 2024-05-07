@@ -5382,7 +5382,7 @@ NULL	CC_CCD
 दूरी	N_NN
 लगभग	RP_RPD
 193	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -6310,7 +6310,7 @@ NULL	CC_CCD
 आने	V_VM
 वाली	PSP
 सामग्री	N_NN
-नागरी	N__NN
+नागरी	N_NN
 से	PSP
 लायी	V_VM
 जाती	V_VAUX
@@ -6659,7 +6659,7 @@ NULL	CC_CCD
 मंदिर	N_NN
 का	PSP
 जीर्णोद्धार	N_NN
-नृपति	N__NN
+नृपति	N_NN
 कुंभकर्ण	N_NNP
 (	RD_SYM
 महाराणा	N_NN
@@ -6678,7 +6678,7 @@ NULL	CC_CCD
 द्वारा	PSP
 जीर्णोद्धार	N_NN
 किए	V_VM
-जाने	V__VAUX
+जाने	V_VAUX
 के	PSP
 कारण	PSP
 इसे	PR_PRP
@@ -6803,7 +6803,7 @@ NULL	CC_CCD
 को	PSP
 कालिका	N_NNP
 माता	N_NN
-सूर्य	N__NN
+सूर्य	N_NN
 मंदिर	N_NN
 ,	RD_PUNC
 निकटवर्ती	JJ
@@ -6823,7 +6823,7 @@ NULL	CC_CCD
 ढाकी	N_NNP
 के	PSP
 अनुसार	PSP
-कीर्तिस्तंभ	N__NN
+कीर्तिस्तंभ	N_NN
 प्रशस्ति	N_NN
 का	PSP
 कुंभस्वामिन	N_NNP
@@ -7561,7 +7561,7 @@ NULL	N_NN
 था	V_VM
 ।	RD_PUNC
 
-सूर्य	N__NN
+सूर्य	N_NN
 मंदिर	N_NN
 का	PSP
 प्रमाण	N_NN
@@ -7663,7 +7663,7 @@ NULL	CC_CCD
 उदयपुर	N_NNP
 से	PSP
 48	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 हल्दी	N_NNP
 घाटी	N_NN
@@ -7799,7 +7799,7 @@ NULL	CC_CCD
 का	PSP
 उपरोक्त	JJ
 मंदिर	N_NN
-अधिक	RP__INTF
+अधिक	RP_INTF
 महत्वपूर्ण	JJ
 है	V_VM
 ।	RD_PUNC
@@ -7915,7 +7915,7 @@ NULL	CC_CCD
 उदयपुर	N_NNP
 से	PSP
 27	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 स्थित	JJ
 नागदा	N_NNP
@@ -8105,7 +8105,7 @@ NULL	N_NN
 अन्य	JJ
 मंदिर	N_NN
 12वीं	QT_QTO
-शताब्दी	N__NN
+शताब्दी	N_NN
 के	PSP
 NULL	N_NN
 हैं	V_VM
@@ -10229,7 +10229,7 @@ NULL	CC_CCD
 टाउन	N_NN
 से	PSP
 22	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूरी	N_NN
 पर	PSP
 चाय	N_NNP
@@ -10258,7 +10258,7 @@ NULL	CC_CCD
 मुन्नार	N_NNP
 से	PSP
 32	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 मुन्नार	N_NNP
 कोडाइकनाल	N_NNP
@@ -11069,7 +11069,7 @@ NULL	CC_CCD
 नगर	N_NN
 से	PSP
 58	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -11086,7 +11086,7 @@ NULL	CC_CCD
 स्थित	JJ
 25	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 क्षेत्रफल	N_NN
 वाला	PSP
 द्वीप	N_NN
@@ -11140,7 +11140,7 @@ NULL	CC_CCD
 अभ्यारण्य	N_NN
 77	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 क्षेत्र	N_NN
 में	PSP
 व्याप्त	JJ
@@ -11346,13 +11346,13 @@ NULL	CC_CCD
 इडुक्कि	N_NNP
 से	PSP
 45	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 NULL	V_VM
 तथा	CC_CCD
 मुन्नार	N_NNP
 से	PSP
 75	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 स्थित	JJ
 है	V_VM
@@ -11713,7 +11713,7 @@ NULL	CC_CCD
 पीरुमेडु	N_NNP
 से	PSP
 4	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 NULL	V_VM
 और	CC_CCD
 कुट्टिक्कानम	N_NNP
@@ -11768,7 +11768,7 @@ NULL	V_VM
 किलिमानूर	N_NNP
 राजमहल	N_NN
 39	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -11782,7 +11782,7 @@ NULL	V_VM
 राजमहल	N_NN
 ,	RD_PUNC
 46	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -11813,12 +11813,12 @@ NULL	CC_CCD
 पीरुमेडु	N_NNP
 से	PSP
 4	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 और	CC_CCD
 कुट्टिक्कानम	N_NNP
 से	PSP
 एक	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -11831,7 +11831,7 @@ NULL	CC_CCD
 स्टेशन	N_NN
 से	PSP
 75	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -11846,7 +11846,7 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 180	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -11980,7 +11980,7 @@ NULL	CC_CCD
 पीरुमेडु	N_NNP
 से	PSP
 25	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -11999,7 +11999,7 @@ NULL	CC_CCD
 स्टेशन	N_NN
 कोट्टयम	N_NNP
 100	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12015,7 +12015,7 @@ NULL	CC_CCD
 हवाई	JJ
 अड्डा	N_NN
 175	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12025,7 +12025,7 @@ NULL	CC_CCD
 मुन्नार	N_NNP
 से	PSP
 45	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पूर्व	N_NNP
 में	PSP
 स्थित	JJ
@@ -12206,7 +12206,7 @@ NULL	CC_CCD
 सड़क	N_NN
 से	PSP
 45	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -12231,7 +12231,7 @@ NULL	CC_CCD
 वट्टावडा	N_NNP
 से	PSP
 155	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -12249,7 +12249,7 @@ NULL	CC_CCD
 पर	PSP
 55	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 विस्तार	N_NN
 में	PSP
 फैला	V_VM
@@ -12312,13 +12312,13 @@ NULL	CC_CCD
 तलश्शेरी	N_NNP
 से	PSP
 35	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 और	CC_CCD
 कण्णूर	N_NNP
 टाउन	N_NN
 से	PSP
 60	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 स्थित	JJ
 है	V_VM
 ।	RD_PUNC
@@ -12342,7 +12342,7 @@ NULL	CC_CCD
 तलश्शेरी	N_NNP
 से	PSP
 71	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -12391,7 +12391,7 @@ NULL	CC_CCD
 झील	N_NN
 37	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 लम्बी	JJ
 है	V_VM
 ।	RD_PUNC
@@ -12425,13 +12425,13 @@ NULL	CC_CCD
 रेलवे	N_NN
 स्टेशन	N_NN
 4	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
 93	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 स्थित	JJ
 कव्वायि	N_NNP
 झील	N_NN
@@ -12620,7 +12620,7 @@ NULL	CC_CCD
 ,	RD_PUNC
 '	RD_PUNC
 अट्लस	N_NNP
-तितली	N__NN
+तितली	N_NN
 '	RD_PUNC
 ,	RD_PUNC
 भी	RP_RPD
@@ -12667,7 +12667,7 @@ NULL	CC_CCD
 स्टेशन	N_NN
 पष़यंगाडि	N_NNP
 2	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12683,7 +12683,7 @@ NULL	CC_CCD
 हवाई	JJ
 अड्डा	N_NN
 118	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12814,7 +12814,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 से	PSP
 29	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12844,7 +12844,7 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 64	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12887,7 +12887,7 @@ NULL	CC_CCD
 
 लगभग	RP_RPD
 4	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 लम्बे	JJ
 मुष़प्पिलंगाडु	N_NNP
 बीच	N_NN
@@ -12969,12 +12969,12 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 से	PSP
 15	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 तथा	CC_CCD
 तलश्शेरी	N_NNP
 से	PSP
 8	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -12990,7 +12990,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 ,	RD_PUNC
 20	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -13003,7 +13003,7 @@ NULL	CC_CCD
 -	RD_PUNC
 मंगलूर	N_NNP
 140	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 जबकि	CC_CCS
@@ -13014,13 +13014,13 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 103	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
 पय्यांबलम	N_NNP
-समुद्रतट	N__NN
+समुद्रतट	N_NN
 स्थान	N_NN
 शान्तिपूर्वक	RB
 संध्या	N_NN
@@ -13071,7 +13071,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 ,	RD_PUNC
 2	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -13090,8 +13090,8 @@ NULL	CC_CCD
 हवाई	JJ
 अड्डा	N_NN
 95	QT_QTC
-कि.मी.	N_NN
-दूर	N__NST
+किमी	N_NN
+दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
@@ -13271,7 +13271,7 @@ NULL	CC_CCD
 केवल	RP_RPD
 100	QT_QTC
 मीटर	N_NN
-दूर	N__NST
+दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
@@ -13285,7 +13285,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 ,	RD_PUNC
 3	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -13305,8 +13305,8 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 93	QT_QTC
-कि.मी.	N_NN
-दूर	N__NST
+किमी	N_NN
+दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
@@ -13823,7 +13823,7 @@ NULL	CC_CCD
 -	RD_PUNC
 तलश्शेरी	N_NNP
 34	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -13841,8 +13841,8 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 71	QT_QTC
-कि.मी.	N_NN
-दूर	N__NST
+किमी	N_NN
+दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
@@ -13925,7 +13925,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 से	PSP
 20	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -14201,7 +14201,7 @@ NULL	CC_CCD
 कण्णूर	N_NNP
 ,	RD_PUNC
 7	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -14220,8 +14220,8 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 100	QT_QTC
-कि.मी.	N_NN
-दूर	N__NST
+किमी	N_NN
+दूर	N_NST
 है	V_VM
 ।	RD_PUNC
 
@@ -14448,7 +14448,7 @@ NULL	CC_CCD
 मंगलूर	N_NNP
 ,	RD_PUNC
 50	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 ,	RD_PUNC
 NULL	V_VM
 NULL	CC_CCD
@@ -14458,7 +14458,7 @@ NULL	CC_CCD
 अड्डा	N_NN
 ,	RD_PUNC
 200	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -14550,7 +14550,7 @@ NULL	CC_CCD
 मंगलूर	N_NNP
 ,	RD_PUNC
 50	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 ।	RD_PUNC
 
 चित्तारि	N_NNP
@@ -14617,7 +14617,7 @@ NULL	CC_CCD
 काजंगाडु	N_NNP
 ,	RD_PUNC
 5	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -14654,7 +14654,7 @@ NULL	CC_CCD
 बेक्कल	N_NNP
 से	PSP
 छह	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 स्थित	JJ
 है	V_VM
@@ -14707,7 +14707,7 @@ NULL	CC_CCD
 कासरगोड	N_NNP
 ,	RD_PUNC
 12	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -14722,7 +14722,7 @@ NULL	CC_CCD
 मंगलूर	N_NNP
 ,	RD_PUNC
 50	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -14974,7 +14974,7 @@ NULL	CC_CCD
 रेलवे	N_NN
 स्टेशन	N_NN
 9	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -14989,7 +14989,7 @@ NULL	CC_CCD
 मंगलूर	N_NNP
 ,	RD_PUNC
 120	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 NULL	V_VM
 और	CC_CCD
 करिप्पूर	N_NNP
@@ -14998,7 +14998,7 @@ NULL	V_VM
 अड्डा	N_NN
 ,	RD_PUNC
 180	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15146,7 +15146,7 @@ NULL	V_VM
 की	PSP
 दूरी	N_NN
 61	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 है	V_VM
 ।	RD_PUNC
@@ -15161,14 +15161,14 @@ NULL	V_VM
 की	PSP
 दूरी	N_NN
 69	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
 तिरुवनन्तपुरम	N_NNP
 से	PSP
 36	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 में	PSP
 स्थित	JJ
@@ -15353,7 +15353,7 @@ NULL	V_VM
 वर्कला	N_NNP
 ,	RD_PUNC
 8	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15367,7 +15367,7 @@ NULL	V_VM
 से	PSP
 अंचुतेंगु	N_NNP
 46	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -15419,7 +15419,7 @@ NULL	V_VM
 से	PSP
 आक्कुलम	N_NNP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15433,7 +15433,7 @@ NULL	V_VM
 से	PSP
 आक्कुलम	N_NNP
 7	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -15590,7 +15590,7 @@ ISMA	RD_RDF
 मार्शियल	N_NN
 आर्ट्स	N_NN
 2	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15608,7 +15608,7 @@ ISMA	RD_RDF
 मार्शियल	N_NN
 आर्ट्स	N_NNP
 8	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15706,7 +15706,7 @@ ISMA	RD_RDF
 कयम	N_NNP
 से	PSP
 दो	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15751,7 +15751,7 @@ ISMA	RD_RDF
 स्टेशन	N_NN
 तिरुवनन्तपुरम	N_NNP
 32	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -15767,7 +15767,7 @@ ISMA	RD_RDF
 उत्तरम	N_NNP
 कयम	N_NNP
 38	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -15812,14 +15812,14 @@ ISMA	RD_RDF
 के	PSP
 टुकडे	N_NN
 भरे	V_VM
-पड़े	V__VAUX
+पड़े	V_VAUX
 हैं	V_VAUX
 ।	RD_PUNC
 
 तिरुवनन्तपुरम	N_NNP
 से	PSP
 50	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूरी	N_NN
 पर	PSP
 स्थित	JJ
@@ -16042,7 +16042,7 @@ NULL	CC_CCD
 स्टेशन	N_NN
 तिरुवनन्तपुरम	N_NNP
 61	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -16056,7 +16056,7 @@ NULL	CC_CCD
 से	PSP
 कल्लार	N_NNP
 67	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -16117,7 +16117,7 @@ NULL	CC_CCD
 तिरुवनन्तपुरम	N_NNP
 से	PSP
 18	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -16245,7 +16245,7 @@ NULL	CC_CCD
 तिरुवनन्तपुरम	N_NNP
 से	PSP
 35	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -16267,7 +16267,7 @@ NULL	CC_CCD
 जायें	V_VM
 तो	CC_CCS
 12	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 के	PSP
 बाद	N_NST
 कुरिश्शडी	N_NNP
@@ -16462,7 +16462,7 @@ NULL	CC_CCD
 तिरुवनन्तपुरम	N_NNP
 से	PSP
 39	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 स्थित	JJ
 किलिमानूर	N_NNP
@@ -18300,15 +18300,15 @@ NULL	CC_CCD
 फोन	N_NN
 :	RD_PUNC
 236333	QT_QTC
-)	RD__SYM
+)	RD_SYM
 ,	RD_PUNC
 होटल	N_NN
 पारुल	N_NNP
-(	RD__SYM
+(	RD_SYM
 फोन	N_NN
 :	RD_PUNC
 224344	QT_QTC
-)	RD__SYM
+)	RD_SYM
 ।	RD_PUNC
 
 गर्मियों	N_NN
@@ -31597,7 +31597,7 @@ NULL	CC_CCD
 से	PSP
 जून	N_NNP
 या	CC_CCS
-फिर	RP__RPD
+फिर	RP_RPD
 मध्य	JJ
 सितंबर	N_NNP
 -	RD_PUNC
@@ -32444,7 +32444,7 @@ NULL	CC_CCD
 नर्मदा	N_NNP
 नदी	N_NN
 1312	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 चलकर	V_VM
 गुजरात	N_NNP
 में	PSP
@@ -32476,7 +32476,7 @@ NULL	CC_CCD
 नर्मदा	N_NNP
 नदी	N_NN
 1077	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 मध्यप्रदेश	N_NNP
 के	PSP
 शहडोल	N_NNP
@@ -32503,7 +32503,7 @@ NULL	CC_CCD
 नर्मदा	N_NNP
 नदी	N_NN
 74	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 महाराष्ट्र	N_NNP
 को	PSP
 स्पर्श	N_NN
@@ -32514,12 +32514,12 @@ NULL	CC_CCD
 ,	RD_PUNC
 जिसमें	PR_PRL
 34	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 तक	PSP
 मध्यप्रदेश	N_NNP
 और	CC_CCD
 40	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 तक	PSP
 गुजरात	N_NNP
 के	PSP
@@ -32542,7 +32542,7 @@ NULL	CC_CCD
 पहले	N_NST
 लगभग	RP_RPD
 161	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 गुजरात	N_NNP
 में	PSP
 बहती	V_VM
@@ -32576,7 +32576,7 @@ NULL	CC_CCD
 क्षेत्र	N_NN
 98799	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 जिसमें	PR_PRL
 80.02	QT_QTC
@@ -32687,7 +32687,7 @@ NULL	CC_CCD
 इच्छा	N_NN
 नहीं	RP_NEG
 होती	V_VM
-।	RD__PUNC
+।	RD_PUNC
 
 इसके	PR_PRP
 विपरीत	PSP
@@ -32885,7 +32885,7 @@ NULL	PR_PRP
 कुंड	N_NN
 से	PSP
 6	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -33137,7 +33137,7 @@ NULL	PR_PRP
 लिए	PSP
 प्रसिद्ध	JJ
 है	V_VM
-।	RD__PUNC
+।	RD_PUNC
 
 काष्ठ	N_NN
 कला	N_NN
@@ -34192,7 +34192,7 @@ NULL	CC_CCD
 कि	RP_RPD
 मात्र	RP_RPD
 130	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -34242,7 +34242,7 @@ NULL	V_VM
 हुए	V_VAUX
 लगभग	RP_RPD
 70	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 लम्बे	JJ
 इस	DM_DMD
 मार्ग	N_NN
@@ -34795,14 +34795,14 @@ NULL	CC_CCD
 से	PSP
 मात्र	RP_RPD
 15	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
 स्थित	JJ
 97	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 क्षेत्र	N_NN
 में	PSP
 फैला	V_VM
@@ -36221,7 +36221,7 @@ NULL	N_NN
 कई	QT_QTF
 कलात्मक	JJ
 वस्तुएँ	N_NN
-यहाँ	PR__PRP
+यहाँ	PR_PRP
 से	PSP
 खरीदी	V_VM
 जा	V_VAUX
@@ -36279,7 +36279,7 @@ NULL	V_VM
 नौका	N_NNP
 विहार	N_NN
 के	PSP
-साथ	N__NST
+साथ	N_NST
 -	RD_SYM
 साथ	N_NST
 वॉटलनेक	N_NNP
@@ -36310,7 +36310,7 @@ NULL	V_VM
 सीधी	JJ
 रेलगाड़ियाँ	N_NN
 हैं	V_VM
-।	RD__PUNC
+।	RD_PUNC
 
 वॉल्वो	N_NN
 बसों	N_NN
@@ -36688,7 +36688,7 @@ NULL	CC_CCD
 महल	N_NN
 ।	RD_PUNC
 
-17वीं	QT__QTC
+17वीं	QT_QTC
 सदी	N_NN
 में	PSP
 जहाँगीर	N_NNP
@@ -36998,7 +36998,7 @@ NULL	CC_CCD
 प्रतिष्ठा	N_NN
 के	PSP
 पहले	N_NST
-उसे	PR__PRP
+उसे	PR_PRP
 इस	DM_DMD
 महल	N_NN
 के	PSP
@@ -37025,7 +37025,7 @@ NULL	CC_CCD
 असम्भव	JJ
 हो	V_VM
 गया	V_VAUX
-तब	PR__PRP
+तब	PR_PRP
 राजा	N_NN
 को	PSP
 भगवान	N_NN
@@ -37045,18 +37045,18 @@ NULL	CC_CCD
 जाएँगे	V_VAUX
 NULL	CC_CCD
 फिर	RB
-वहाँ	PR__PRP
+वहाँ	PR_PRP
 से	PSP
 हटाए	V_VM
 नहीं	RP_NEG
 जाएँगे	V_VAUX
 ।	RD_PUNC
 
-तब	PR__PRP
+तब	PR_PRP
 से	PSP
 राम	N_NNP
 राजा	N_NN
-वहीं	PR__PRP
+वहीं	PR_PRP
 विराजे	V_VM
 हैं	V_VAUX
 ।	RD_PUNC
@@ -37626,13 +37626,13 @@ NULL	CC_CCD
 ग्वालियर	N_NNP
 (	RD_SYM
 119	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 )	RD_SYM
 एवं	CC_CCD
 खजुराहो	N_NNP
 (	RD_SYM
 170	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 )	RD_SYM
 निकटवर्ती	JJ
 हवाई	JJ
@@ -37660,7 +37660,7 @@ NULL	CC_CCD
 झाँसी	N_NNP
 (	RD_SYM
 160	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 )	RD_SYM
 है	V_VM
 ।	RD_PUNC
@@ -39023,7 +39023,7 @@ NULL	V_VM
 सिमडेगा	N_NNP
 से	PSP
 29	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पश्चिम	N_NNP
 में	PSP
 कैराबेड़ा	N_NNP
@@ -39080,7 +39080,7 @@ NULL	V_VM
 सेन्हा	N_NNP
 से	PSP
 8	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 द.पू.	N_NNP
 दिशा	N_NN
 में	PSP
@@ -41297,7 +41297,7 @@ NULL	V_VM
 देवघर	N_NNP
 से	PSP
 43	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -41353,7 +41353,7 @@ NULL	V_VM
 देवघर	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -41621,7 +41621,7 @@ NULL	CC_CCD
 देवघर	N_NNP
 से	PSP
 24	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पूरब	N_NNP
 में	PSP
 ,	RD_PUNC
@@ -41691,7 +41691,7 @@ NULL	CC_CCD
 इसकी	PR_PRP
 दूरी	N_NN
 दो	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 है	V_VM
 ।	RD_PUNC
 
@@ -41714,7 +41714,7 @@ NULL	CC_CCD
 मंदिर	N_NN
 से	PSP
 तीन	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -41739,10 +41739,10 @@ NULL	CC_CCD
 हैं	V_VAUX
 ।	RD_PUNC
 
-सत्संग	N__NN
+सत्संग	N_NN
 नगर	N_NN
 चार	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -41837,7 +41837,7 @@ NULL	CC_CCD
 के	PSP
 शिव	N_NNP
 मंदिर	N_NN
-शिकारा	N__NN
+शिकारा	N_NN
 शैली	N_NN
 में	PSP
 बने	V_VM
@@ -42248,7 +42248,7 @@ NULL	CC_CCD
 मधुपुर	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पश्चिम	N_NNP
 में	PSP
 बकुलिया	N_NNP
@@ -42298,7 +42298,7 @@ NULL	CC_CCD
 देवघर	N_NNP
 से	PSP
 5	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -42312,7 +42312,7 @@ NULL	CC_CCD
 मंदिर	N_NN
 की	PSP
 स्थापना	N_NN
-ठाकुर	N__NN
+ठाकुर	N_NN
 दयानन्द	N_NNP
 देव	N_NNP
 ने	PSP
@@ -42348,7 +42348,7 @@ NULL	CC_CCD
 देवघर	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -42645,7 +42645,7 @@ NULL	CC_CCD
 हजारीबाग	N_NNP
 से	PSP
 22	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 की	PSP
 ओर	N_NST
@@ -42655,7 +42655,7 @@ NULL	CC_CCD
 मध्य	N_NST
 186.25	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 में	PSP
 इस	DM_DMD
 पार्क	N_NN
@@ -42713,7 +42713,7 @@ NULL	CC_CCD
 एनएच	N_NNP
 से	PSP
 तीन	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 अंदर	N_NST
 सालपर्ण	N_NN
 विश्रामगार	N_NN
@@ -42737,7 +42737,7 @@ NULL	CC_CCD
 मुख्यालय	N_NN
 से	PSP
 12	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -42785,7 +42785,7 @@ NULL	CC_CCD
 चौक	N_NN
 से	PSP
 22	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -42844,12 +42844,12 @@ NULL	CC_CCD
 हजारीबाग	N_NNP
 से	PSP
 51	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 तथा	CC_CCD
 विशुनगढ़	N_NNP
 से	PSP
 9	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूरी	N_NN
 पर	PSP
 स्थित	JJ
@@ -43020,7 +43020,7 @@ NULL	N_NN
 शहर	N_NN
 से	PSP
 38	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -43299,7 +43299,7 @@ NULL	N_NN
 से	PSP
 महज	RP_RPD
 6	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -43460,7 +43460,7 @@ NULL	N_NN
 रामगढ़	N_NNP
 से	PSP
 38	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -43654,7 +43654,7 @@ NULL	PR_PRP
 रामगढ़	N_NNP
 से	PSP
 35	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पश्चिम	N_NNP
 में	PSP
 स्थित	JJ
@@ -44263,7 +44263,7 @@ NULL	CC_CCD
 शहर	N_NN
 से	PSP
 13	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पूरब	N_NNP
 में	PSP
 उसरी	N_NNP
@@ -44353,7 +44353,7 @@ NULL	CC_CCD
 से	PSP
 करीब	RP_RPD
 5	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 गिरडीह	N_NNP
 -	RD_SYM
 धनबाद	N_NNP
@@ -44363,7 +44363,7 @@ NULL	CC_CCD
 मार्ग	N_NN
 पर	PSP
 2	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पूरब	N_NNP
 दिशा	N_NN
 में	PSP
@@ -44822,7 +44822,7 @@ NULL	CC_CCD
 राजमहल	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पूर्व	N_NNP
@@ -44843,7 +44843,7 @@ NULL	N_NN
 शहर	N_NN
 से	PSP
 13	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -44918,7 +44918,7 @@ NULL	N_NN
 स्टेशन	N_NN
 से	PSP
 3	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 में	PSP
 रामपुर	N_NNP
@@ -44998,7 +44998,7 @@ NULL	N_NN
 बढ़ैत	N_NNP
 से	PSP
 8	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 में	PSP
 स्थित	JJ
@@ -45019,7 +45019,7 @@ NULL	N_NN
 राजमहल	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पश्चिम	N_NNP
 में	PSP
 स्थित	JJ
@@ -45284,7 +45284,7 @@ NULL	CC_CCD
 धनबाद	N_NNP
 से	PSP
 30	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 लगभग	RP_RPD
 बंगाल	N_NNP
@@ -45315,7 +45315,7 @@ NULL	CC_CCD
 धनबाद	N_NNP
 से	PSP
 54	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पूर्व	N_NNP
@@ -45323,7 +45323,7 @@ NULL	CC_CCD
 चिरकुण्डा	N_NNP
 से	PSP
 9	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 में	PSP
 स्थित	JJ
@@ -45524,7 +45524,7 @@ NULL	CC_CCD
 तथा	CC_CCD
 30	QT_QTC
 वर्ग	N_NN
-कि.मी.	N_NN
+किमी	N_NN
 में	PSP
 विस्तृत	JJ
 बाँध	N_NN
@@ -45541,7 +45541,7 @@ NULL	CC_CCD
 का	PSP
 पानी	N_NN
 29	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 लंबी	JJ
 नहर	N_NN
 के	PSP
@@ -45815,7 +45815,7 @@ NULL	CC_CCD
 मुख्यालय	N_NN
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -46234,7 +46234,7 @@ NULL	V_VM
 सैकड़ों	QT_QTO
 मूर्तियाँ	N_NN
 यहाँ	PR_PRP
--	RD__SYM
+-	RD_SYM
 वहाँ	PR_PRP
 नजर	N_NN
 आ	V_VM
@@ -46385,7 +46385,7 @@ NULL	CC_CCD
 मोर्टिलो	N_NNP
 टावर	N_NN
 में	PSP
-कुल	QT__QTF
+कुल	QT_QTF
 56	QT_QTC
 खिड़कियाँ	N_NN
 हैं	V_VM
@@ -46490,7 +46490,7 @@ NULL	CC_CCD
 महेशपुर	N_NNP
 से	PSP
 16	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -46543,7 +46543,7 @@ NULL	CC_CCD
 महेशपुर	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 में	PSP
 स्थित	JJ
@@ -46684,7 +46684,7 @@ NULL	CC_CCD
 गोड्डा	N_NNP
 से	PSP
 13	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 बाराकोपा	N_NNP
 पहाड़ी	N_NN
@@ -46756,9 +46756,9 @@ NULL	CC_CCD
 में	PSP
 टाटा	N_NNP
 से	PSP
-साढ़े	QT__QTC
+साढ़े	QT_QTC
 छः	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 पश्चिम	N_NNP
 में	PSP
 आंजन	N_NNP
@@ -46772,12 +46772,12 @@ NULL	CC_CCD
 राँची	N_NNP
 से	PSP
 130	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 तथा	CC_CCD
 गुमला	N_NNP
 से	PSP
 21	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -46919,7 +46919,7 @@ NULL	CC_CCD
 लोहरदगा	N_NNP
 से	PSP
 24	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 हापामुनी	N_NNP
 नामक	JJ
@@ -47057,7 +47057,7 @@ NULL	CC_CCD
 गुमला	N_NNP
 से	PSP
 78	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -47187,7 +47187,7 @@ NULL	CC_CCD
 नेतरहाट	N_NNP
 से	PSP
 26	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दक्षिण	N_NNP
 में	PSP
 है	V_VM
@@ -47252,7 +47252,7 @@ NULL	CC_CCD
 चैनपुर	N_NNP
 से	PSP
 26	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 उत्तर	N_NNP
 -	RD_SYM
 पश्चिम	N_NNP
@@ -47322,7 +47322,7 @@ NULL	CC_CCD
 थे	V_VM
 ।	RD_PUNC
 
-चौथे	QT__QTO
+चौथे	QT_QTO
 राजा	N_NN
 मदन	N_NNP
 राय	N_NNP
@@ -47399,7 +47399,7 @@ NULL	CC_CCD
 राँची	N_NNP
 से	PSP
 120	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूरी	N_NN
 पर	PSP
 गुमला	N_NNP
@@ -47529,7 +47529,7 @@ NULL	CC_CCD
 में	PSP
 करीब	RP_RPD
 150	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -47592,7 +47592,7 @@ NULL	CC_CCD
 नेतरहाट	N_NNP
 से	PSP
 10	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूर	N_NST
 है	V_VM
 ।	RD_PUNC
@@ -47779,12 +47779,12 @@ NULL	CC_CCD
 बढ़	V_VM
 जाती	V_VAUX
 है	V_VAUX
-।	RD__PUNC
+।	RD_PUNC
 
 नेतरहाट	N_NNP
 से	PSP
 25	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -47844,7 +47844,7 @@ NULL	CC_CCD
 महुआडांड़	N_NNP
 से	PSP
 14	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -47912,7 +47912,7 @@ NULL	CC_CCD
 गाँव	N_NN
 से	PSP
 6	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 दूरी	N_NN
 पर	PSP
 स्थित	JJ
@@ -47958,7 +47958,7 @@ NULL	CC_CCD
 चंदवा	N_NNP
 से	PSP
 11	QT_QTC
-कि.मी.	N_NN
+किमी	N_NN
 की	PSP
 दूरी	N_NN
 पर	PSP
@@ -56052,7 +56052,7 @@ ITES	RD_RDF
 मकबरा	N_NNP
 ,	RD_PUNC
 कोल्हापुर	N_NNP
-में	PSP	N
+में	PSP
 महालक्ष्मी	N_NNP
 मंदिर	N_NN
 ,	RD_PUNC
@@ -62646,7 +62646,7 @@ ITES	RD_RDF
 ।	RD_PUNC
 
 आगरा	N_NNP
-दिल्ली=	N_NN
+दिल्ली	N_NN
 से	PSP
 200	QT_QTC
 किलोमीटर	N_NN
@@ -62686,7 +62686,7 @@ ITES	RD_RDF
 ने	PSP
 1631	N_NNP
 से	PSP
-1648	N_NN
+1648	N_NNP
 के	PSP
 बीच	N_NST
 करवाया	V_VM
@@ -63062,7 +63062,9 @@ ITES	RD_RDF
 वेबसाईटकाफी	JJ
 सूचना	N_NN
 देती	V_VAUX
-हे|	N_NNP
+है	V_VAUX
+।	RD_PUNC
+
 स्टेशन	N_NN
 के	PSP
 आसपास	N_NST
@@ -63116,9 +63118,9 @@ ITES	RD_RDF
 तक	PSP
 और	CC_CCD
 सांय	N_NN
-४	N_NN
+४	QT_QTC
 से	PSP
-६	V_VM
+६	QT_QTC
 -	RD_SYM
 ७	QT_QTC
 बजे	N_NN
@@ -63269,11 +63271,11 @@ ITES	RD_RDF
 राजमार्ग	N_NN
 2	QT_QTC
 से	PSP
-बर्धमान	N_NN
+बर्धमान	N_NNP
 ,	RD_PUNC
 वाराणसी	N_NNP
 ,	RD_PUNC
-इलाहबाद	N_NN
+इलाहबाद	N_NNP
 ,	RD_PUNC
 कानपुर	N_NNP
 और	CC_CCD
@@ -63283,7 +63285,7 @@ ITES	RD_RDF
 कोलकता	N_NN
 से	PSP
 जुड़ी	V_VM
-है	V_VM
+है	V_VAUX
 ,	RD_PUNC
 राष्ट्रीय	JJ
 राजमार्ग	N_NN
@@ -63330,5 +63332,6 @@ ITES	RD_RDF
 लखनऊ	N_NNP
 से	PSP
 जुड़ी	V_VM
-है।	RD_PUNC
+है	V_VAUX
+।	RD_PUNC
 
